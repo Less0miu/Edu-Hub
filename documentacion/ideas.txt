@@ -1,1 +1,22 @@
+Edu Hub ayuda a los estudiantes a organizar tareas académicas mientras controla el impacto económico de sus decisiones y hábitos de estudio.
+
+La aplicación conecta:
+tiempo,
+organización,
+procrastinación,
+y gastos estudiantiles.
+
+VENTAJAS
+- Reduce procrastinación
+- Ayuda a ahorrar dinero
+- Mejora organización académica
+- Disminuye estrés estudiantil
+
+POSIBLES MEJORAS FUTURAS
+- Integración con IA
+- Sincronización con universidades
+- Aplicación móvil completa
+- Estadísticas de productividad
+- Comunidad estudiantil
+
 
