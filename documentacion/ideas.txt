@@ -1,22 +1,24 @@
-Edu Hub ayuda a los estudiantes a organizar tareas académicas mientras controla el impacto económico de sus decisiones y hábitos de estudio.
+ EDUHUB - IDEAS DEL PROYECTO
 
-La aplicación conecta:
-tiempo,
-organización,
-procrastinación,
-y gastos estudiantiles.
+FUNCIONES PRINCIPALES:
+- Calendario académico con materias, horarios y fechas de entrega
+- Lista de tareas con nivel de prioridad por materia
+- Recordatorios y alertas de exámenes y entregas
+- Notas rápidas organizadas por materia
+- Vista semanal y mensual del horario académico
+- Registro de gastos por materia (materiales, impresiones, libros, transporte, etc.)
 
-VENTAJAS
-- Reduce procrastinación
-- Ayuda a ahorrar dinero
-- Mejora organización académica
-- Disminuye estrés estudiantil
+VENTAJAS:
+- Ataca los dos recursos más escasos del estudiante: tiempo y dinero
+- Relaciona directamente la procrastinación con gastos innecesarios evitables
+- Fomenta la colaboración entre compañeros para reducir costos
+- Ayuda a sobrevivir semanas de exámenes sin arruinarse
+- Todo en un solo lugar: agenda, presupuesto DE LA CO
+- Disponible sin conexión a internet para funciones básicas
+- Reduce el estrés académico y financiero al mismo tiempo
 
-POSIBLES MEJORAS FUTURAS
-- Integración con IA
-- Sincronización con universidades
-- Aplicación móvil completa
-- Estadísticas de productividad
-- Comunidad estudiantil
-
-
+POSIBLES MEJORAS FUTURAS:
+- Sincronización con Google Calendar y plataformas como Moodle
+- Gráficas de gastos por materia, mes o semestre completo
+- Exportar presupuesto y resumen académico en PDF o Excel
+- Integración con apps de delivery para comparar precios y evitar gastos impulsivos
