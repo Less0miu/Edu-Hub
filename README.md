@@ -4,7 +4,8 @@
 Ayudar a estudiantes universitarios a visualizar el costo financiero oculto de la procrastinación, vinculando su gestión de tiempo con su presupuesto personal mediante recompensas reales.
 
 ## Problema que se resuelve
-Los estudiantes no solo pierden tiempo cuando postergan tareas, también pierden dinero: impresiones de emergencia, taxis, envíos urgentes, materiales costosos de última hora. Costo-Tiempo hace visible esta relación para fomentar hábitos productivos y ahorro económico.
+La procrastinación no solo afecta el rendimiento académico, también genera gastos innecesarios. Muchos estudiantes terminan pagando impresiones de emergencia, transporte de último momento, entregas urgentes o materiales más costosos por falta de planificación.
+Costo-Tiempo busca hacer visible esta relación entre tiempo y dinero para promover una mejor organización académica y un mayor ahorro económico.
 
 ## Público objetivo
 Estudiantes universitarios de 18 a 25 años con presupuesto limitado y carga académica exigente.
