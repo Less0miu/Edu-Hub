@@ -8,7 +8,7 @@ La procrastinación no solo afecta el rendimiento académico, también genera ga
 Costo-Tiempo busca hacer visible esta relación entre tiempo y dinero para promover una mejor organización académica y un mayor ahorro económico.
 
 ## Público objetivo
-Estudiantes universitarios de 18 a 25 años con presupuesto limitado y carga académica exigente.
+Estudiantes de educación superior (universitarios) que enfrentan una alta carga académica, disponen de un presupuesto mensual limitado o dependiente, y requieren optimizar tanto sus hábitos de estudio como sus recursos económicos para garantizar su permanencia y bienestar en el sistema educativo.
 
 ## Funcionalidades principales
 - Alertas de "Procrastinación Costosa" que calculan el costo real de dejar tareas para último momento
