@@ -1,5 +1,4 @@
 # Edu-Hub
-# Costo-Tiempo
 
 ## Objetivo
 Ayudar a estudiantes universitarios a visualizar el costo financiero oculto de la procrastinación, vinculando su gestión de tiempo con su presupuesto personal mediante recompensas reales.
