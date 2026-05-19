@@ -18,7 +18,7 @@ Estudiantes universitarios de 18 a 25 años con presupuesto limitado y carga aca
 ## Integrantes y roles
 | Integrante       | Rol                     |
 |-----------------|--------------------------|
-| Ana García      | Líder de proyecto        |
-| Luis Fernández  | Diseñador digital        |
-| Carla Méndez    | Documentadora            |
-| Roberto Díaz    | Administrador GitHub     |
+| Erika Amores      | Líder de proyecto        |
+| Olga Arguello  | Diseñador digital        |
+| Domenica Sinche    | Documentadora            |
+| Lesly Carrasco   | Administrador GitHub     |
