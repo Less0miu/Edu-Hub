@@ -5,7 +5,7 @@ Ayudar a estudiantes universitarios a visualizar el costo financiero oculto de l
 
 ## Problema que se resuelve
 La procrastinación no solo afecta el rendimiento académico, también genera gastos innecesarios. Muchos estudiantes terminan pagando impresiones de emergencia, transporte de último momento, entregas urgentes o materiales más costosos por falta de planificación.
-Costo-Tiempo busca hacer visible esta relación entre tiempo y dinero para promover una mejor organización académica y un mayor ahorro económico.
+EDUHUB busca hacer visible esta relación entre tiempo y dinero para promover una mejor organización académica y un mayor ahorro económico.
 
 ## Público objetivo
 Estudiantes de educación superior (universitarios) que enfrentan una alta carga académica, disponen de un presupuesto mensual limitado o dependiente, y requieren optimizar tanto sus hábitos de estudio como sus recursos económicos para garantizar su permanencia y bienestar en el sistema educativo.
